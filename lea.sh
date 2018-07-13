@@ -6,7 +6,7 @@ sudo apt upgrade -y
 sudo apt dist-upgrade -y
 
 #install stuff
-sudo apt install build-essential transmission git gimp plank vim vlc -y
+sudo apt install build-essential transmission gedit gimp plank vim vlc ubuntu-restricted-extras screenfetch htop preload -y
 
 #install sublime-text
 wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
